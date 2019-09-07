@@ -1,0 +1,1 @@
+A Django project boilerplate to start any new django project
